@@ -3,10 +3,11 @@ layout: page
 ---
 
 # About Me
+<!-- 
+<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 
 
-
-<img src="https://chengyawen07.github.io/Yawen_photo.JPG" class="floatpic" width="360" height="480">
+<img src="https://github.com/Chengyawen07/chengyawen07.github.io/blob/main/Yawen_photo.JPG" class="floatpic" width="360" height="480">
 
 
 
