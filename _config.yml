@@ -7,7 +7,7 @@ url: chengyawen07.github.io
 # Owner/author information
 owner:
   name: Yawen Cheng
-  avatar: yawen.jpg
+  # avatar: yawen.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: yawen.cheng@tum.de
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -39,7 +39,7 @@ links:
   - title: About Me
     url: /
   - title: Blogs
-  url: /blogs/
+    url: /blogs/
 
   # - title: Experiences
   #   url: /Experiences/

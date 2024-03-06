@@ -7,9 +7,6 @@ layout: page
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480"> -->
 
 
-<img src="https://github.com/Chengyawen07/chengyawen07.github.io/blob/main/Yawen_photo.JPG" class="floatpic" width="360" height="480">
-
-
 
 Here is **Yawen Cheng**.
 
