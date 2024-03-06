@@ -38,12 +38,13 @@ owner:
 links:
   - title: About Me
     url: /
+  - title: Blogs
+  url: /blogs/
+
   # - title: Experiences
   #   url: /Experiences/
   # - title: Projects
   #   url: /Projects/
-  - title: Blogs
-    url: /blogs/
   # - title: Awards
   #   url: /awards/
   # - title: Hobbies

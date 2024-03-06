@@ -8,9 +8,7 @@ layout: page
 
 
 
-
-
-![Yawen_photo](/Users/cheng/Documents/GitHub/chengyawen07.github.io/blogs/web.assets/Yawen_photo.JPG)
+![Yawen_photo](/Users/cheng/Documents/GitHub/chengyawen07.github.io/Yawen_photo.JPG)
 
 
 
