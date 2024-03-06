@@ -8,7 +8,7 @@ layout: page
 
 
 
-![Yawen_photo](/Users/cheng/Documents/GitHub/chengyawen07.github.io/Yawen_photo.JPG)
+<img src="https://chengyawen07.github.io/Yawen_photo.JPG" class="floatpic" width="360" height="480">
 
 
 
