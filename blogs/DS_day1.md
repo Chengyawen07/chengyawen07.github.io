@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/DS_day1/index.html
-title: DS_day1_Array
+title: DS_day1
 ---
 
 
