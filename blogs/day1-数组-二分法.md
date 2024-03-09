@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /blogs/DS_day1/index.html
+title: DS_day1_Array
+---
+
+
 # day1：二分法
 
 # 704 二分法
