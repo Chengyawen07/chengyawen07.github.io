@@ -22,7 +22,11 @@ Here is my data structure learning blog！
 
 - [Array Day1: dichotomy](https://chengyawen07.github.io//blogs/DS_day1/)
 
+
+
 ### Linked List
+
+
 
 
 ### Stack
@@ -53,8 +57,8 @@ Here is my data structure learning blog！
 
 ## Web Star History
 
-- [Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io) 
-- 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)留下一个Star吧
+- [Leave a star if you like it 🥰](https://github.com/Chengyawen07/chengyawen07.github.io) 
+- If this is helpful for you, please click a start for my [Github仓库](https://github.com/Chengyawen07/chengyawen07.github.io), thank you!
 
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
 
